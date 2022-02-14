@@ -6,6 +6,7 @@ Lung cancer is one of the major causes of cancer-related deaths due to its aggre
 ## Pipeline
 The pipeline consists of several steps.
 
+
  - Image preprocessing 
  - Segmentation of nodule
  - False positive reduction using
