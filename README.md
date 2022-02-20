@@ -7,7 +7,7 @@ Lung cancer is one of the major causes of cancer-related deaths due to its aggre
 The pipeline consists of several steps.
 
 
- - Image preprocessing 
+ - Image preprocessing (Lung segmentation using watershed algorithm, resizing and resampling of scans)
  - Segmentation of nodule
  - False positive reduction using
    texture and size based classification
