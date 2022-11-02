@@ -1,5 +1,5 @@
 
-# MEDS-Net: Self-Distilled Multi-Encoders Network with Bi-Direction Maximum Intensity projections for Lung Nodule Detection(https://arxiv.org/pdf/2211.00003.pdf)
+# [MEDS-Net: Self-Distilled Multi-Encoders Network with Bi-Direction Maximum Intensity projections for Lung Nodule Detection](https://arxiv.org/pdf/2211.00003.pdf)
 Early detection of lung cancer is an effective way
 to improve the survival rate of patients. It is a critical step to
 have accurate detection of lung nodules in computed tomography
