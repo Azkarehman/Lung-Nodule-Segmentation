@@ -45,4 +45,4 @@ The pipeline consists of several steps.
    texture and size based classification
 
  The segmentation model is shown in figure:
-![enter image description here](https://github.com/Azkarehman/Lung-Nodule-Segmentation/blob/main/fig/lung.png)
+![Segmentation Model](https://github.com/Azkarehman/Lung-Nodule-Segmentation/blob/main/fig/lung.png)
